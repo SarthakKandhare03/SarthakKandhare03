@@ -1,6 +1,6 @@
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,45:ff2d78,75:a259ff,100:00e5ff&height=260&section=header&text=SARTHAK%20KANDHARE&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=Developer%20%E2%80%A2%20Web%20%26%20Android%20%E2%80%A2%20Pune%2C%20India&descAlignY=62&descSize=20&animation=fadeIn" width="100%" alt="Sarthak Kandhare"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,45:ff2d78,75:a259ff,100:00e5ff&height=260&section=header&text=SARTHAK%20KANDHARE&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Developer%20%E2%80%A2%20Web%20%E2%80%A2%20Android%20%E2%80%A2%20Pune%2C%20India&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Sarthak Kandhare"/>
 </p>
 
 <p align="center">
@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SarthakKandhare03&label=PROFILE+VIEWS&color=ff2d78&style=for-the-badge" alt="Profile views"/>
-  <a href="https://github.com/SarthakKandhare03?tab=followers"><img src="https://img.shields.io/github/followers/SarthakKandhare03?label=FOLLOWERS&style=for-the-badge&color=a259ff&labelColor=0d0221&logo=github" alt="Followers"/></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SarthakKandhare03.SarthakKandhare03&left_text=PROFILE%20VIEWS&left_color=%230d0221&right_color=%23ff2d78" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/🤝_OPEN_TO-COLLABORATE-a259ff?style=for-the-badge&labelColor=0d0221" alt="Open to collaborate"/>
   <img src="https://img.shields.io/badge/📍_PUNE-INDIA-00e5ff?style=for-the-badge&labelColor=0d0221" alt="Pune, India"/>
 </p>
 
